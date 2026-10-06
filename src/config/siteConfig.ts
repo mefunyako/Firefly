@@ -42,7 +42,7 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "Nachoの小窝",
 
 	// 站点副标题
 	subtitle: "Demo site",
